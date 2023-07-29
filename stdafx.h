@@ -4,6 +4,8 @@
 //
 
 #pragma once
+#pragma comment (lib, "User32.lib")
+#pragma comment (lib, "shell32.lib" )
 
 #include "targetver.h"
 
