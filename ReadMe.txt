@@ -1,3 +1,9 @@
+**** FORK CHANGELOG ****
+** 29th July 2023 (by LiquidSevens)
+- forked from Bios-Marcel's archived repo
+- updated stdafx.h to resolve compile errors
+- compiled for x86 and x64, published both releases
+
 ========================================================================
     CONSOLE APPLICATION : fastman92 IMG Console Project Overview
 ========================================================================
